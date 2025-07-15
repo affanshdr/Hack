@@ -1,0 +1,9 @@
+
+mkdir 
+rmdir
+touch
+echo
+cat
+grep
+nano
+
